@@ -1,3 +1,5 @@
+#GetFullPath
+
 This is a simple utility that help you copy the full path of any file/folder on your windows machine.
 
 Installation:
