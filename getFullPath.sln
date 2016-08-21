@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getFullPath", "getFullPath\getFullPath.csproj", "{F9229FF4-A114-47BC-88F0-A5131CA3C3D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Installer", "Installer\Installer.csproj", "{B02E2996-941A-472D-ABAE-15317143899D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uninstall", "Uninstall\Uninstall.csproj", "{82505CA7-C7E1-444F-9418-670CF52A5CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9229FF4-A114-47BC-88F0-A5131CA3C3D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9229FF4-A114-47BC-88F0-A5131CA3C3D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9229FF4-A114-47BC-88F0-A5131CA3C3D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9229FF4-A114-47BC-88F0-A5131CA3C3D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B02E2996-941A-472D-ABAE-15317143899D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B02E2996-941A-472D-ABAE-15317143899D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B02E2996-941A-472D-ABAE-15317143899D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B02E2996-941A-472D-ABAE-15317143899D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82505CA7-C7E1-444F-9418-670CF52A5CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82505CA7-C7E1-444F-9418-670CF52A5CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82505CA7-C7E1-444F-9418-670CF52A5CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82505CA7-C7E1-444F-9418-670CF52A5CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

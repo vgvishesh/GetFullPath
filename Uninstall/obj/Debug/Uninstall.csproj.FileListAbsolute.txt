@@ -1,0 +1,12 @@
+F:\work\OpenSource Projects\getFullPath\Uninstall\bin\Debug\Uninstall.exe.config
+F:\work\OpenSource Projects\getFullPath\Uninstall\bin\Debug\Uninstall.exe
+F:\work\OpenSource Projects\getFullPath\Uninstall\bin\Debug\Uninstall.pdb
+F:\work\OpenSource Projects\getFullPath\Uninstall\bin\Debug\Installer.exe
+F:\work\OpenSource Projects\getFullPath\Uninstall\bin\Debug\Installer.pdb
+F:\work\OpenSource Projects\getFullPath\Uninstall\obj\Debug\Uninstall.csprojResolveAssemblyReference.cache
+F:\work\OpenSource Projects\getFullPath\Uninstall\obj\Debug\Uninstall.exe
+F:\work\OpenSource Projects\getFullPath\Uninstall\obj\Debug\Uninstall.pdb
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Uninstall.exe.config
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Uninstall.exe
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Uninstall.pdb
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Installer.exe.manifest

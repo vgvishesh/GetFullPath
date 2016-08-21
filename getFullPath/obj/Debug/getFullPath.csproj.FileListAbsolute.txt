@@ -1,0 +1,10 @@
+F:\work\OpenSource Projects\getFullPath\getFullPath\bin\Debug\getFullPath.exe.config
+F:\work\OpenSource Projects\getFullPath\getFullPath\bin\Debug\getFullPath.exe
+F:\work\OpenSource Projects\getFullPath\getFullPath\bin\Debug\getFullPath.pdb
+F:\work\OpenSource Projects\getFullPath\getFullPath\obj\Debug\getFullPath.exe
+F:\work\OpenSource Projects\getFullPath\getFullPath\obj\Debug\getFullPath.pdb
+F:\work\OpenSource Projects\getFullPath\getFullPath\bin\Debug\nunit.framework.dll
+F:\work\OpenSource Projects\getFullPath\getFullPath\bin\Debug\nunit.framework.xml
+F:\work\OpenSource Projects\getFullPath\bin\Debug\getFullPath.exe.config
+F:\work\OpenSource Projects\getFullPath\bin\Debug\GetFullPath.exe
+F:\work\OpenSource Projects\getFullPath\bin\Debug\GetFullPath.pdb

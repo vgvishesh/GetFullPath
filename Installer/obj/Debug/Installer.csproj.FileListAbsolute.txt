@@ -1,0 +1,9 @@
+F:\work\OpenSource Projects\getFullPath\Installer\bin\Debug\Installer.exe.config
+F:\work\OpenSource Projects\getFullPath\Installer\bin\Debug\Installer.exe
+F:\work\OpenSource Projects\getFullPath\Installer\bin\Debug\Installer.pdb
+F:\work\OpenSource Projects\getFullPath\Installer\obj\Debug\Installer.exe
+F:\work\OpenSource Projects\getFullPath\Installer\obj\Debug\Installer.pdb
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Installer.exe.config
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Installer.exe
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Installer.pdb
+F:\work\OpenSource Projects\getFullPath\bin\Debug\Installer.exe.manifest
